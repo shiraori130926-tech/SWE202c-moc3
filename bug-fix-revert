@@ -1,0 +1,3 @@
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls | grep "[TÊN_GITHUB_CỦA_BẠN]"
+    "label": "[TÊN_GITHUB_CỦA_BẠN]:bug-fix-typo",
+    "ref": "bug-fix-typo",
